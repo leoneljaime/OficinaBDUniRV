@@ -11,3 +11,6 @@ BEGIN
 END
 
 select * from Cliente1
+
+--Mostrar Drop Table 
+--Recriar tabela Cliente1
