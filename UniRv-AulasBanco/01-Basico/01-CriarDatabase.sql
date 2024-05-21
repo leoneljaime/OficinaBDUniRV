@@ -1,0 +1,3 @@
+CREATE DATABASE [BRdata01]
+
+Use BRdata01
